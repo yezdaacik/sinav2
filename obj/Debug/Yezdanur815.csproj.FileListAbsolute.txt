@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Yezdanur815\Yezdanur815\bin\Debug\Yezdanur815.exe.config
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Yezdanur815\Yezdanur815\bin\Debug\Yezdanur815.exe
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Yezdanur815\Yezdanur815\bin\Debug\Yezdanur815.pdb
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Yezdanur815\Yezdanur815\obj\Debug\Yezdanur815.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Yezdanur815\Yezdanur815\obj\Debug\Yezdanur815.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Yezdanur815\Yezdanur815\obj\Debug\Yezdanur815.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Yezdanur815\Yezdanur815\obj\Debug\Yezdanur815.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Yezdanur815\Yezdanur815\obj\Debug\Yezdanur815.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Yezdanur815\Yezdanur815\obj\Debug\Yezdanur815.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Yezdanur815\Yezdanur815\obj\Debug\Yezdanur815.exe
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Yezdanur815\Yezdanur815\obj\Debug\Yezdanur815.pdb
